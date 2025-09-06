@@ -23,3 +23,14 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+/* ================================
+   Personalización Jefferson
+   ================================ */
+
+
+/* Resaltado elegante para palabras clave */
+.resaltado {
+  font-weight: 400;      /* semi-bold (más suave que bold) */
+  color: #b71c1c;        /* azul elegante */
+  
+}
